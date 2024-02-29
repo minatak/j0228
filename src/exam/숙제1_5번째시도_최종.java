@@ -1,4 +1,4 @@
-package T3_while;
+package exam;
 
 /*1~100까지의 숫자중 2의 배수의 개수와 3의 배수의 개수와 5의 배수의 개수를 구하시오. 
   단, 중복되는 배수인 경우는 작은 숫자에 한번만 누적처리하시오.
@@ -33,5 +33,6 @@ public class 숙제1_5번째시도_최종 {
 		System.out.println();
 		System.out.println("2의 배수의 합 + 3의 배수의 합 - 5의 배수의 합 = " + res);
 		
+
 	}
 }
